@@ -1,6 +1,6 @@
 const environments = {
     development: {
-        BASE_URL: 'https://dev.sgvvo.in/api',
+        BASE_URL: '',
         ASSET_URL: 'http://image.tmdb.org',
     },
     qa: {
